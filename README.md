@@ -7,7 +7,7 @@ I'm a researcher and data scientist with a focus on computer vision at BI X - an
 - 📝 I'm currently working on a publication on a novel deep learning model-architecture for detecting Velcro crackles in lung auscultation recordings, a key finding in patients with Idiopathic pulmonary fibrosis (IPF).
 - 👯 I’m looking to collaborate on a medical computer vision competition on kaggle.
 
-I'm best reached via [email](philippschw@gmail.com). I'm always open to interesting conversations and collaboration.
+I'm best reached via [email](mailto:philippschw@gmail.com). I'm always open to interesting conversations and collaboration.
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/chipro?label=Follow&style=social)](https://twitter.com/philippschw)
